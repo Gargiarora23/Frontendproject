@@ -1,14 +1,14 @@
 import React from 'react'
-import errors from "../Assets/erroricon.png";
-import car1 from "../Assets/cars01.jpg";
-import car2 from "../Assets/cars02.jpg";
-import car3 from "../Assets/cars03.jpg";
-import car4 from "../Assets/cars04.jpg";
-import car5 from "../Assets/cars05.jpg";
-import car6 from "../Assets/cars06.jpg";
-import car7 from "../Assets/cars07.jpg";
-import car8 from "../Assets/cars08.jpg";
-import car9 from "../Assets/cars09.jpg";
+import errors from "../assets/erroricon.png";
+import car1 from "../assets/cars01.jpg";
+import car2 from "../assets/cars02.jpg";
+import car3 from "../assets/cars03.jpg";
+import car4 from "../assets/cars04.jpg";
+import car5 from "../assets/cars05.jpg";
+import car6 from "../assets/cars06.jpg";
+import car7 from "../assets/cars07.jpg";
+import car8 from "../assets/cars08.jpg";
+import car9 from "../assets/cars09.jpg";
 
 const Car = () => {
   let icon1=(<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6">

@@ -1,14 +1,14 @@
 import React from 'react'
-import errors from "../Assets/erroricon.png";
-import cruises1 from "../Assets/cruises01.jpg";
-import cruises2 from "../Assets/cruises02.jpg";
-import cruises3 from "../Assets/cruises03.jpg";
-import cruises4 from "../Assets/cruises04.jpg";
-import cruises5 from "../Assets/cruises05.jpg";
-import cruises6 from "../Assets/cruises06.jpg";
-import cruises7 from "../Assets/cruises07.jpg";
-import cruises8 from "../Assets/cruises08.jpg";
-import cruises9 from "../Assets/cruises09.jpg";
+import errors from "../assets/erroricon.png";
+import cruises1 from "../assets/cruises01.jpg";
+import cruises2 from "../assets/cruises02.jpg";
+import cruises3 from "../assets/cruises03.jpg";
+import cruises4 from "../assets/cruises04.jpg";
+import cruises5 from "../assets/cruises05.jpg";
+import cruises6 from "../assets/cruises06.jpg";
+import cruises7 from "../assets/cruises07.jpg";
+import cruises8 from "../assets/cruises08.jpg";
+import cruises9 from "../assets/cruises09.jpg";
 
 const Cruises = () => {
 let icon1=(<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6">

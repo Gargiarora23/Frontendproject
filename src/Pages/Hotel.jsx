@@ -1,5 +1,5 @@
 import React from "react";
-import errors from "../Assets/erroricon.png";
+import errors from "../assets/erroricon.png";
 import hotel1 from "../assets/hotels01.jpg";
 import hotel2 from "../assets/hotels02.jpg";
 import hotel3 from "../assets/hotels03.jpg";

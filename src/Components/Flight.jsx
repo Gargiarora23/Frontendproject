@@ -1,14 +1,14 @@
 import React from 'react'
 import errors from "../assets/erroricon.png";
-import flight1 from "../Assets/flights01.jpg";
-import flight2 from "../Assets/flights02.jpg";
-import flight3 from "../Assets/flights03.jpg";
-import flight4 from "../Assets/flights04.jpg";
-import flight5 from "../Assets/flights05.jpg";
-import flight6 from "../Assets/flights06.jpg";
-import flight7 from "../Assets/flights07.jpg";
-import flight8 from "../Assets/flights08.jpg";
-import flight9 from "../Assets/flights09.jpg";
+import flight1 from "../assets/flights01.jpg";
+import flight2 from "../assets/flights02.jpg";
+import flight3 from "../assets/flights03.jpg";
+import flight4 from "../assets/flights04.jpg";
+import flight5 from "../assets/flights05.jpg";
+import flight6 from "../assets/flights06.jpg";
+import flight7 from "../assets/flights07.jpg";
+import flight8 from "../assets/flights08.jpg";
+import flight9 from "../assets/flights09.jpg";
 
 
 

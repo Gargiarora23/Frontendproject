@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import logomain from "../assets/logomain-removebg-preview (1).png";
 import facebook from "../assets/facebooklogo-removebg-preview.png";
 import twitter from "../assets/twitterlogo-removebg-preview.png";
