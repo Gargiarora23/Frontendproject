@@ -29,7 +29,10 @@ const Navbar = () => {
     setTimer(newTimer);
   };
 
- 
+  const toggleDropdown = (setDropdown, currentState) => {
+    setDropdown(!currentState);
+  };
+  
 
   // Function to toggle mobile menu
   const toggleMobileMenu = () => {
@@ -264,11 +267,7 @@ const Navbar = () => {
 {/* Mobile Menu (Hamburger) */}
 {/* Adjustments for mobile view (visible on smaller screens) */}
 <div className="md:hidden">
-  <button onClick={toggleMobileMenu} className="text-gray-500">
-    <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path>
-    </svg>
-  </button>
+  
   {mobileMenuOpen && (
     <ul className="space-y-4 py-4 px-6">
       <li>
